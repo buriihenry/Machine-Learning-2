@@ -1,14 +1,14 @@
 # ReadMe
 
-End to End Machine Learning pipelines
+End=to-End Machine Learning pipeline.
 
 Supervised and unsupervised ML
 
 Dependancies 
 
-Sklearn
-Matplotlib
-Numpy
-Pandas
+Sklearn,
+Matplotlib,
+Numpy,
+Pandas,and
 plotly
 
