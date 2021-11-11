@@ -39,7 +39,7 @@ def prediction(Gender,  Married, ApplicantIncome, LoanAmount, Credit_History):
 
 def main():
     html_temp = """
-    <div style ="background-color:blue;padding:13px"> 
+    <div style ="background-color:green;padding:13px"> 
     <h1 style ="color:black;text-align:center;">Streamlit Loan Prediction ML App</h1> 
     </div> 
     """
