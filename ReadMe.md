@@ -1,6 +1,7 @@
 # ReadMe
 
-End=to-End Machine Learning pipeline.
+End=to-End Machine Learning pipelines.
+Data Analysis, EDA, Feature extraction, Feature Engineering
 
 Supervised and unsupervised ML
 
